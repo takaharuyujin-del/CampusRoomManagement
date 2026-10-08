@@ -1,2 +1,4 @@
 # CampusRoomManagement
-test case of repostiory usage 
+
+This is the coding for my CET 333 assignment
+
